@@ -7,6 +7,6 @@
  
  Список сущностей:
 
-*
-![image](https://user-images.githubusercontent.com/64580259/109860644-74ef8380-7c6f-11eb-8feb-e70d3b38db30.png)
+![image](https://user-images.githubusercontent.com/64580259/109867128-31007c80-7c77-11eb-9243-56e5d5f52dc2.png)
+
 
