@@ -17,5 +17,7 @@
  Список сущностей:
 
 ![image](https://user-images.githubusercontent.com/64580259/109867128-31007c80-7c77-11eb-9243-56e5d5f52dc2.png)
+![image](https://user-images.githubusercontent.com/64580259/109868699-044d6480-7c79-11eb-9c52-5b18dc85f265.png)
+
 
 
