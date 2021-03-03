@@ -1,11 +1,11 @@
-## BerDenSkorPop
+# BerDenSkorPop
 Список команды и роли:
 1. Березов Артём Владиславович (вторая подгруппа)
 2. Денисов Александр Алексеевич (вторая подгруппа)
 3. Попов Сергей Евгеньевич (вторая подгруппа)
 4. Скороходов Илья Сергеевич (вторая подгруппа)
  
-# Функциональные требования:
+### Функциональные требования:
 1.	Транзакционные:
 * Изменить цену сайта
 * Изменить комплектацию сайта
@@ -14,7 +14,7 @@
 * Удалить клиента
 * Изменить сроки заказа
 
-# Список сущностей:
+### Список сущностей:
  
 1. Clients
 * id - INT
@@ -54,9 +54,9 @@
 * Administration_BD - INT
 * AD_rek - INT
  
-# Relational Schema
+### Relational Schema
 ![image](https://user-images.githubusercontent.com/64580259/109867128-31007c80-7c77-11eb-9243-56e5d5f52dc2.png)
-# UML Diagram
+### UML Diagram
 ![image](https://user-images.githubusercontent.com/64580259/109868699-044d6480-7c79-11eb-9c52-5b18dc85f265.png)
 
 ![image](https://user-images.githubusercontent.com/64580259/109868883-41b1f200-7c79-11eb-9592-a863c33690fc.png)
