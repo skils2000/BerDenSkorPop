@@ -68,11 +68,14 @@
 * AD_rek - INT
  
 ### Relational Schema
-![image](https://user-images.githubusercontent.com/64580259/109867128-31007c80-7c77-11eb-9243-56e5d5f52dc2.png)
+![image](https://user-images.githubusercontent.com/64580259/111544319-54eab480-8785-11eb-85db-9b5e35b88f00.png)
+
 ### UML Diagram
 ![image](https://user-images.githubusercontent.com/64580259/109868699-044d6480-7c79-11eb-9c52-5b18dc85f265.png)
 
-![image](https://user-images.githubusercontent.com/64580259/109868883-41b1f200-7c79-11eb-9592-a863c33690fc.png)
+### ER Diagram
+![image](https://user-images.githubusercontent.com/64580259/111544502-9f6c3100-8785-11eb-9ff4-5c22812ac743.png)
+
 
 
 
