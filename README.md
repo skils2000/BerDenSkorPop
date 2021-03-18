@@ -71,7 +71,7 @@
 ![image](https://user-images.githubusercontent.com/64580259/111544319-54eab480-8785-11eb-85db-9b5e35b88f00.png)
 
 ### UML Diagram
-![image](https://user-images.githubusercontent.com/64580259/109868699-044d6480-7c79-11eb-9c52-5b18dc85f265.png)
+![image](https://user-images.githubusercontent.com/64583095/111594301-f3a20000-87db-11eb-8a74-1e2fca506ef0.png)
 
 ### ER Diagram
 ![image](https://user-images.githubusercontent.com/64580259/111544502-9f6c3100-8785-11eb-9ff4-5c22812ac743.png)
