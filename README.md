@@ -37,40 +37,50 @@
 1. Clients
 * id - INT
 * FIO - VARCHAR(n)
-* Phone - INT
-* Email - VARCHAR(n)
+* Contacts - VARCHAR(n)
 
-2. Orders
+2. Ordering_websites
 * id - INT
-* Date - DATE
-* Time - Custom
-
-3. Advertisement
-* id - INT
-* Type - VARCHAR(n)
 * Deadline - DATE
 
-4. Website
+3. Suggestions
 * id - INT
-* Price - INT
-* Type - VARCHAR(n)
-* Time_of_imp - VARCHAR(n)
+* Priority - VARCHAR(n)
+
+4. WebsiteToDesign
+* idDesign - INT
+* idWebsite - INT
+* Deadline - DATE
+* Description - VARCHAR(n)
 
 5. Design_project
 * id - INT
-* Font - VARCHAR(n)
-* Logo - INT
-* Colour - VARCHAR(n)
+* Name - VARCHAR(n)
+* Description - VARCHAR(n)
+* Price - INT
 
-6. Database
+6. Site_Elements
 * id - INT
-* Max_of_tables - INT
+* Name - VARCHAR(n)
+* Price - INT
 
-7. Service
+7. Services
 * id - INT
-* Filling_with_content - VARCHAR(n)
-* Administration_BD - INT
-* AD_rek - INT
+* Name - VARCHAR(n)
+* Price - INT
+
+8. WebsiteToElements
+* idWebsite - INT
+* idSite - INT
+* Deadline - DATE
+* Description - VARCHAR(n)
+
+9. WebsiteToServices
+* idWebsite - INT
+* idService - INT
+* Deadline - DATE
+* Description - VARCHAR(n)
+
  
 ### Relational Schema
 ![image](https://user-images.githubusercontent.com/64583095/113272488-57502100-92e4-11eb-966a-a69c54d44a9b.png)
